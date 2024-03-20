@@ -1,6 +1,6 @@
-pypdf
-langchain
-sentence_transformers
-openai
-chromadb
-streamlit
+pypdf==3.16.4
+langchain==0.0.324
+sentence-transformers==2.2.2
+openai==0.28.1
+chromadb==0.4.15
+streamlit==1.28.0
